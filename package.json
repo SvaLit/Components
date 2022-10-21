@@ -1,0 +1,33 @@
+{
+  "name": "@svalit/components",
+  "version": "0.0.1",
+  "type": "module",
+  "dependencies": {
+    "svalit": "^0.1.0-alpha.8"
+  },
+  "exports": {
+    "./context-node.mjs": "./context-node.mjs"
+  },
+  "description": "Components for SvaLit",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SvaLit/Components.git"
+  },
+  "keywords": [
+    "Lit",
+    "SSR",
+    "Async",
+    "Vanilla",
+    "Components"
+  ],
+  "author": {
+    "name": "Vladislav Ponomarev",
+    "email": "Git@PonomareVlad.ru",
+    "url": "https://PonomareVlad.ru"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SvaLit/Components/issues"
+  },
+  "homepage": "https://github.com/SvaLit/Components#readme"
+}
