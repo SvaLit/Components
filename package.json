@@ -1,9 +1,10 @@
 {
   "name": "@svalit/components",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "type": "module",
   "dependencies": {
-    "@svalit/core": "latest"
+    "@svalit/core": "latest",
+    "@lit-async/lit": "2.4.1-mirror.1"
   },
   "exports": {
     "./context-node.mjs": "./context-node.mjs"
