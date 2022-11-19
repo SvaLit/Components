@@ -1,9 +1,9 @@
 {
   "name": "@svalit/components",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "type": "module",
   "dependencies": {
-    "svalit": "latest"
+    "@svalit/core": "latest"
   },
   "exports": {
     "./context-node.mjs": "./context-node.mjs"
