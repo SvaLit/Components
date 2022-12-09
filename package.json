@@ -1,6 +1,6 @@
 {
   "name": "@svalit/components",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "type": "module",
   "dependencies": {
     "@svalit/core": "^0.1.4",
